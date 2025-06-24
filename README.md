@@ -57,6 +57,7 @@ advice_agent/ # このファイル名をagent.pyに設定する
 GCP_ADK_AGENT_1/
 ├── .env
 ├── make_vector_store.ipynb # RAG Engine作成用notebook
+├── web_search.ipynb # web searchをカスタム関数として利用する場合の作成例（ここでは、結局使っていない。）
 ├── main.py # ローカルのcli実行時に必要なsessionとrunnerの設定ファイル (python main.pyでcli実行)
 ├── data_for_rag/
 |     └── merge_tags_content.txt # RAG Engine用元データ（東京都のコロナ対策事業一覧）
