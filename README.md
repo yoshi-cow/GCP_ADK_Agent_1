@@ -65,6 +65,6 @@ GCP_ADK_AGENT_1/
       ├── __init__.py
       ├── agent.py # prompt、agent定義ファイル
       └── tools/
-            ├── get_tag.py # キーワード取得用カスタム関数。関数内で別途LLMを呼び出して利用
+            ├── get_tag.py # キーワード取得用カスタム関数。関数内で別途LLMを呼び出してLLMが該当しそうなキーワードを推測して返す。
             └── rag_query.py # RAG検索用カスタム関数
 
