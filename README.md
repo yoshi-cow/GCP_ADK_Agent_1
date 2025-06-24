@@ -1,2 +1,2 @@
 # GCP_ADK_Agent_1
-google-adkを用いたGCPでのReact型Agentの実装
+備忘録：google-adkを用いたGCPでのReact型Agentの実装
