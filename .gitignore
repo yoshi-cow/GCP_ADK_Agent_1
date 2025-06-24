@@ -1,3 +1,9 @@
+# environment
+.env
+
+# 作業用ノートブック
+make_code.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
